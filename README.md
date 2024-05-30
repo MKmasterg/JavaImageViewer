@@ -14,7 +14,8 @@ This is a simple image viewer application written in Java. It allows you to view
 1. Click on the 'Select File' button to choose an image file.
 2. Use the 'Resize' button to resize the image. Enter the desired width and height in the provided text fields.
 3. Use the 'Brightness' button to adjust the brightness of the image. Enter the desired brightness level in the provided text field.
-4. Click on the 'Close' button to close the application.
+4. Use the 'Gray Scale' button to gray scale the image.
+5. Click on the 'Close' button to close the application.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
